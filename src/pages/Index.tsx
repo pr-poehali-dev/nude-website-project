@@ -215,9 +215,10 @@ const Index = () => {
               </a>
             </div>
           </div>
-        </nav>
+        </div>
+      </nav>
 
-        <section id="home" className="container mx-auto px-4 py-20">
+      <section id="home" className="container mx-auto px-4 py-20">
           <div className="text-center max-w-3xl mx-auto animate-fade-in">
             <h2 className="text-6xl font-bold mb-6 bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
               Добро пожаловать в наш блог
